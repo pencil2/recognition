@@ -1,6 +1,6 @@
 body{
     color:azure;
-    background-color:black;
+    background-color:rgb(158, 10, 10);
 }
 .heading {
     width: 80%;
@@ -12,6 +12,6 @@ body{
     height:300px;
 }
 .name_of_objects, #result_object_name, #result_object_accuracy {
-color:cornsilk;
+color:rgb(251, 208, 33);
 
 }
